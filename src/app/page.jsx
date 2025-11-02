@@ -1,4 +1,5 @@
 "use client"
+
 import { Users, Target, ArrowRight, Brain, ShoppingBag, BookOpen, MessageCircle, Facebook, Twitter, Linkedin, Mail, Phone, MapPin, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useState } from 'react';
 import "./globals.css"
